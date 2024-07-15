@@ -68,7 +68,7 @@ This will produce an `esc` binary in your `GOBIN` directory.
 
 ## How Pulumi ESC Works
 
-![Pulumi ESC: Open source secrets management overview](./assets/pulumi_esc_overview.png)
+![Pulumi ESC: Open source secrets management overview](./assets/overview.png)
 
 1. Pulumi ESC enables you to define environments, which are collections of secrets and configuration. Each environment can be composed from multiple environments.
 2. Pulumi ESC supports a variety of configuration and secrets sources, and it has an extensible plugin model that allows third-party sources.
